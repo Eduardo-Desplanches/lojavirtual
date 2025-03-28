@@ -1,1 +1,3 @@
 # lojavirtual
+
+acrescentando texto.
