@@ -1,3 +1,4 @@
 # lojavirtual
 
-acrescentando texto.
+acrescentando texto. 
+Detalhes: ?
