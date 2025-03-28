@@ -2,4 +2,4 @@
 
 acrescentando texto. 
 Detalhes: ?
-Textto alterado via github com sucesso
+Texto alterado via github com sucesso
